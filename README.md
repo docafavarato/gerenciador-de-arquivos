@@ -1,4 +1,4 @@
-# File-manager
+# Gerenciador de arquivos
 Gerenciador de arquivos. Funções:
 - Exibe todos os arquivos em uma pasta selecionada pelo usuário
 - Possue a opção de seleção e remoção dos arquivos selecionados pelo usuário
